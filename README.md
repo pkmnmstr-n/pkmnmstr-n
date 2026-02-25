@@ -1,73 +1,75 @@
-# T Elias Raju
+<!-- HEADER ANIMATION -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0f2027&height=220&section=header&text=T%20Elias%20Raju&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
 
-### AI Explorer • Full-Stack Learner • Future Remote Engineer
-
-![Profile Views](https://komarev.com/ghpvc/?username=pkmnmstr-n&label=Profile%20Views&color=58A6FF&style=flat)
+<!-- TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Explorer;Full-Stack+Learner;Future+Remote+Engineer;Building+Intelligent+Systems"/>
+</p>
 
 ---
 
-## 🧠 About Me
+# 👨‍💻 About Me
 
 ```diff
 + Engineering intelligent systems.
-+ Designing clean architecture.
-+ Exploring scalable technologies.
++ Designing scalable architecture.
++ Exploring modern technologies.
 ```
 
 - 💻 Passionate about Software & AI  
 - 🚀 Building real-world technical projects  
-- 🌍 Working toward a remote engineering career  
-- 🎸 Learning acoustic guitar  
+- 🌍 Future Remote Engineer  
+- 🎸 Learning Acoustic Guitar  
 - 🌐 Learning Spanish  
 
 ---
 
-## ⚙️ Tech Stack
+# ⚡ Tech Universe
 
-### Languages
-- Python  
-- JavaScript  
-- HTML  
-- CSS  
-
-### Tools & Technologies
-- Git  
-- GitHub  
-- Linux  
-- VS Code  
-- Flask  
-- Node.js  
-- MySQL  
+```
+Python        ████████████░░░░
+JavaScript    ██████████░░░░░░
+HTML/CSS      ███████████░░░░░
+Flask         █████████░░░░░░░
+Node.js       ████████░░░░░░░░
+Git           ███████████░░░░░
+Linux         █████████░░░░░░░
+```
 
 ---
 
-## 📊 GitHub Stats
+# 🌌 Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pkmnmstr-n&show_icons=true&theme=tokyonight&hide_border=true)
+✨ **AI Interaction System**  
+> Behavioral AI personality modeling concept  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pkmnmstr-n&layout=compact&theme=tokyonight&hide_border=true)
+✨ **LaTeX Resume Builder**  
+> ATS-friendly automated resume generator  
 
----
+✨ **Mini Overleaf Editor**  
+> Lightweight web-based LaTeX editor  
 
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=pkmnmstr-n&theme=tokyonight&hide_border=true)
-
----
-
-## 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pkmnmstr-n&theme=tokyo-night)
+✨ **Web Experiments**  
+> Frontend UI & system architecture exploration  
 
 ---
 
-## 💡 Featured Projects
+# 🚀 Current Mission
 
-- 🤖 AI Interaction System – Behavioral AI modeling concept  
-- 📝 LaTeX Resume Builder – ATS-friendly resume generator  
-- 📄 Mini Overleaf Editor – Lightweight LaTeX web editor  
-- 🌐 Web Experiments – Frontend & system design exploration  
+- 🧠 Master system design  
+- 🤖 Build advanced AI-based tools  
+- ⚙ Strengthen backend & architecture skills  
+- 🌍 Prepare for global remote engineering roles  
 
 ---
 
-> *Engineering intelligence. Designing impact.*
+<!-- FOOTER ANIMATION -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:243B55,100:141E30&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  <b>Engineering intelligence. Designing impact.</b>
+</p>
